@@ -1,4 +1,6 @@
-There is a correlation between number of rides and the average fare per city. Urban cities the highest number of rides, the highest number of drivers and had the lowest average fare of the three types of cities.
+Urban cities the highest number of rides, the highest number of drivers and had the lowest average fare of the three types of cities.
+  This could be due to supply and demand. Urban cities have cheaper fares due to a larger number of drivers. 
+The lower fare could also be caused by the amount of distance traveled per rider. It could be assumed that those that use a ride service in an urban city travel a less distance as they could work close to where they live.  
 Urban cities have the highest percentage of total fares at 62.97%.
 Even though rural cities had the highest average fare per city, the rural cities had the smallest segment of the total fares by city pie chart at 6.68%.
-Urban cities had both the largest percentage of total rides and percentage of drivers
+
